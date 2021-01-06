@@ -639,19 +639,19 @@ Text GLabel 6700 4150 2    50   Input ~ 0
 col13
 Text GLabel 6700 4250 2    50   Input ~ 0
 col14
-Text GLabel 6700 4550 2    50   Input ~ 0
+Text GLabel 6700 4950 2    50   Input ~ 0
 row0
 Text GLabel 6700 4750 2    50   Input ~ 0
 row2
-Text GLabel 6700 4850 2    50   Input ~ 0
+Text GLabel 6700 4550 2    50   Input ~ 0
 row3
-Text GLabel 6700 4950 2    50   Input ~ 0
-row4
 Text GLabel 6700 5050 2    50   Input ~ 0
+row4
+Text GLabel 6700 4850 2    50   Input ~ 0
 row1
-Text GLabel 6700 5150 2    50   Input ~ 0
-col5
 Text GLabel 6700 5250 2    50   Input ~ 0
+col5
+Text GLabel 6700 5150 2    50   Input ~ 0
 col6
 Text GLabel 6700 3550 2    50   Input ~ 0
 fad_out

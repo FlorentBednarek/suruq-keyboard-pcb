@@ -645,13 +645,13 @@ Text GLabel 6700 4750 2    50   Input ~ 0
 row2
 Text GLabel 6700 4850 2    50   Input ~ 0
 row3
-Text GLabel 6700 4950 2    50   Input ~ 0
-row4
 Text GLabel 6700 5050 2    50   Input ~ 0
+row4
+Text GLabel 6700 4950 2    50   Input ~ 0
 row1
-Text GLabel 6700 5150 2    50   Input ~ 0
-col5
 Text GLabel 6700 5250 2    50   Input ~ 0
+col5
+Text GLabel 6700 5150 2    50   Input ~ 0
 col6
 Text GLabel 6700 3550 2    50   Input ~ 0
 fad_out
@@ -705,8 +705,8 @@ Wire Wire Line
 	5400 3350 5500 3350
 Wire Wire Line
 	5400 3450 5500 3450
-Text GLabel 2650 3550 3    50   Input ~ 0
+Text GLabel 2100 3550 3    50   Input ~ 0
 DP
-Text GLabel 2650 3450 1    50   Input ~ 0
+Text GLabel 2100 3450 1    50   Input ~ 0
 DN
 $EndSCHEMATC
