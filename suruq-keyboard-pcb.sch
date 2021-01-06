@@ -607,8 +607,6 @@ F 3 " ~" H 5925 800 50  0001 C CNN
 $EndComp
 Text GLabel 7400 1750 3    50   Input ~ 0
 MISO
-Text GLabel 7300 1750 3    50   Input ~ 0
-MOSI
 Text GLabel 7200 1750 3    50   Input ~ 0
 SCK
 Text GLabel 5000 1550 2    50   Input ~ 0
@@ -625,20 +623,18 @@ Text GLabel 6700 3250 2    50   Input ~ 0
 col3
 Text GLabel 6700 3350 2    50   Input ~ 0
 col4
-Text GLabel 6700 3650 2    50   Input ~ 0
-col8
 Text GLabel 6700 3750 2    50   Input ~ 0
-col9
+col8
 Text GLabel 6700 3850 2    50   Input ~ 0
-col10
-Text GLabel 6700 3950 2    50   Input ~ 0
-col12
+col9
 Text GLabel 6700 4050 2    50   Input ~ 0
-col11
+col10
 Text GLabel 6700 4150 2    50   Input ~ 0
-col13
+col12
+Text GLabel 6700 3950 2    50   Input ~ 0
+col11
 Text GLabel 6700 4250 2    50   Input ~ 0
-col14
+col13
 Text GLabel 6700 4950 2    50   Input ~ 0
 row0
 Text GLabel 6700 4750 2    50   Input ~ 0
@@ -653,9 +649,9 @@ Text GLabel 6700 5250 2    50   Input ~ 0
 col5
 Text GLabel 6700 5150 2    50   Input ~ 0
 col6
-Text GLabel 6700 3550 2    50   Input ~ 0
+Text GLabel 6700 3650 2    50   Input ~ 0
 fad_out
-Text GLabel 6700 2650 2    50   Input ~ 0
+Text GLabel 6700 3550 2    50   Input ~ 0
 rot_out
 $Comp
 L power:PWR_FLAG #FLG0101
@@ -709,4 +705,12 @@ Text GLabel 2100 3550 3    50   Input ~ 0
 DP
 Text GLabel 2100 3450 1    50   Input ~ 0
 DN
+Text GLabel 6700 2650 2    50   Input ~ 0
+SCK
+Text GLabel 7300 1750 3    50   Input ~ 0
+MOSI
+Text GLabel 6700 2550 2    50   Input ~ 0
+MOSI
+Text GLabel 6700 2450 2    50   Input ~ 0
+MISO
 $EndSCHEMATC
