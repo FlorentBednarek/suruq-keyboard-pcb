@@ -5,4 +5,5 @@
   (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty)(options "")(descr ""))
   (lib (name cc)(type KiCad)(uri ${KIPRJMOD}/fancy-kicad-stuff-master/cc.pretty)(options "")(descr ""))
   (lib (name mx_suruq)(type KiCad)(uri ${KIPRJMOD}/mx_suruq.pretty)(options "")(descr ""))
+  (lib (name local)(type KiCad)(uri ${KIPRJMOD}/local.pretty)(options "")(descr ""))
 )

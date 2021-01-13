@@ -268,7 +268,7 @@ U 1 1 5FE31926
 P 4700 1550
 F 0 "SW65" H 4700 1835 50  0000 C CNN
 F 1 "SW_Push" H 4700 1744 50  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4700 1750 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_SKQG_WithStem" H 4700 1750 50  0001 C CNN
 F 3 "~" H 4700 1750 50  0001 C CNN
 	1    4700 1550
 	1    0    0    -1  
@@ -607,8 +607,6 @@ F 3 " ~" H 5925 800 50  0001 C CNN
 $EndComp
 Text GLabel 7400 1750 3    50   Input ~ 0
 MISO
-Text GLabel 7300 1750 3    50   Input ~ 0
-MOSI
 Text GLabel 7200 1750 3    50   Input ~ 0
 SCK
 Text GLabel 5000 1550 2    50   Input ~ 0
@@ -707,4 +705,12 @@ Text GLabel 2100 3550 3    50   Input ~ 0
 DP
 Text GLabel 2100 3450 1    50   Input ~ 0
 DN
+Text GLabel 6700 2650 2    50   Input ~ 0
+SCK
+Text GLabel 7300 1750 3    50   Input ~ 0
+MOSI
+Text GLabel 6700 2550 2    50   Input ~ 0
+MOSI
+Text GLabel 6700 2450 2    50   Input ~ 0
+MISO
 $EndSCHEMATC

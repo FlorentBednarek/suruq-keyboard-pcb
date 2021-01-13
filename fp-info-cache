@@ -1,4 +1,4 @@
-17303825778300908
+17316710136540431
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76761,6 +76761,62 @@ cc_negative
 0
 0
 0
+local
+logo
+Imported from svg/silk.svg
+svg2mod
+0
+0
+0
+mx_suruq
+SW_Cherry_MX_1.00u_PCB_NameSilk
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+mx_suruq
+SW_Cherry_MX_1.25u_PCB_NameSilk
+Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.25u PCB
+0
+2
+2
+mx_suruq
+SW_Cherry_MX_1.50u_PCB_NameSilk
+Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.50u PCB
+0
+2
+2
+mx_suruq
+SW_Cherry_MX_1.75u_PCB_NameSilk
+Cherry MX keyswitch, 1.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.75u PCB
+0
+2
+2
+mx_suruq
+SW_Cherry_MX_2.00u_PCB_NameSilk
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+mx_suruq
+SW_Cherry_MX_6.25u_PCB_NameSilk
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+mx_suruq
+SW_Cherry_MX_ISOEnter_PCB_NameSilk
+Cherry MX keyswitch, ISO Enter, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch ISO enter PCB
+0
+2
+2
 random-keyboard-parts
 D_SOD-123-Pretty
 SOD-123
